@@ -24,6 +24,7 @@ export default function Post() {
 
 <button onClick={loadPost}>Get Post</button>
 <button onClick={loadPost}>Get Post</button>
+<button onClick={loadPost}>Get Post</button>
     </div>
   )
 }
